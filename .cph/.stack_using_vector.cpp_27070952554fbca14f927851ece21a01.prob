@@ -1,0 +1,1 @@
+{"name":"Local: stack_using_vector","url":"e:\\Phitron\\DS\\Module-13\\stack_using_vector.cpp","tests":[{"id":1720351321256,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\DS\\Module-13\\stack_using_vector.cpp","group":"local","local":true}
