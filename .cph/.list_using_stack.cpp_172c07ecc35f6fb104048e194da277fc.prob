@@ -1,0 +1,1 @@
+{"name":"Local: list_using_stack","url":"e:\\Phitron\\DS\\Module-13\\list_using_stack.cpp","tests":[{"id":1720352673911,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\DS\\Module-13\\list_using_stack.cpp","group":"local","local":true}
